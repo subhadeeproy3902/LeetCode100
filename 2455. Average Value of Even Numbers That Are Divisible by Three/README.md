@@ -1,21 +1,21 @@
 # [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)
-<p>Given an integer array <code>nums</code> and <code>of</code>, return the <em>number</em> of <strong>common</strong> factors of <code>a</code><em> and </em><code>b</code>.</p>
+<p>Given an integer array <code>nums</code> of <strong>positive</strong> integers, return <em>the average value of all even integers that are divisible by </em><code>3</code>.</p>
 
-<p>An integer <code>x</code> is a <strong>common factor</strong> of <code>a</code> and <code>b</code> if <code>x</code> divides both <code>a</code> and <code>b</code>.
+<p>Note that the <strong>average</strong> elements is the <strong>sum</strong> of the <code>n</code> elements divided by <code>n</code> and <strong>rounded down</strong> to the nearest integer.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> a = 12, b = 6
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> The common factors of 12 and 6 are 1, 2, 3, 6.
+<pre><strong>Input:</strong> nums = [1,3,6,10,12,15]
+<strong>Output:</strong> 9
+<strong>Explanation:</strong> 6 and 12 are even numbers that are divisible by 3. (6 + 12) / 2 = 9.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> a = 25, b = 30
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> The common factors of 25 and 30 are 1, 5.
+<pre><strong>Input:</strong> nums = [1,2,4,7,10]
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> There is no single number that satisfies the requirement, so return 0.
 </pre>
 
 
@@ -23,6 +23,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 <= a, b <= 1000
+	<li><code>1 <= nums.length <= 1000
+</code></li>
+<li><code>1 <= nums[i] <= 1000
 </code></li>
 </ul>
