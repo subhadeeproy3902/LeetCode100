@@ -64,7 +64,7 @@ Please make sure to update tests as appropriate.
 Contact: [subha9.5roy350@gmail.com]
 
 ## License
-![Apache License 2.0 © LeetCode-Subha](https://github.com/subhadeep3902/LeetCode-Subha/blob/3d8a48b6e1277b9c2086564eb920dd49b4cd9b02/LICENSE)
+[Apache License 2.0 © LeetCode-Subha](https://github.com/subhadeep3902/LeetCode-Subha/blob/3d8a48b6e1277b9c2086564eb920dd49b4cd9b02/LICENSE)
 
 ## 🙋‍♂️ Support
 
