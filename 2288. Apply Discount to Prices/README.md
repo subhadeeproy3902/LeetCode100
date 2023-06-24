@@ -1,0 +1,1 @@
+# [Apply Discount to PricesApply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/)
