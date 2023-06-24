@@ -11,7 +11,7 @@
 ### Installation ->
 1. Create a ```C/C++``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/subhadeep3902/LeetCode-Subha.git``` or download the repository.
-3. Go to the cloned/downloaded directory, and navigate to your desired program -> ```cd Leetcode-Codes``` -> ``` cd "folder_name" ```, and then to the code file.
+3. Go to the cloned/downloaded directory, and navigate to your desired program -> ``` cd Leetcode-Codes ``` -> ``` cd "folder_name" ```, and then to the code file.
 4. Run ``` pip3 install gcc ```.
 5. And now you can run the example scripts or create your own scripts.  
 
@@ -27,7 +27,7 @@
 ### Installation ->
 1. Create a ```python``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/subhadeep3902/LeetCode-Subha.git``` or download the repository.
-3. Go to the cloned/downloaded directory, and navigate to your desired program -> ``` cd "folder_name" ```, and then to the code file.
+3. Go to the cloned/downloaded directory, and navigate to your desired program -> ``` cd Leetcode-Codes ``` -> ``` cd "folder_name" ```, and then to the code file.
 4. Go to the [Python website.](https://www.python.org/)
 5. Download the software.
 6. Install it according to the guide.
